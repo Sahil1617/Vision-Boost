@@ -17,5 +17,5 @@
       <li><strong>AI Model:</strong> TensorFlow.js or any cloud-based model</li>
     </ul>
     <h2>🌐 Live Demo</h2>
-    <p><a href="https://visionboost-client.onrender.com" target="_blank">https://visionboost-client.onrender.com</a></p>
+    <p><a href="https://visionboostai.onrender.com" target="_blank">https://visionboostai.onrender.com</a></p>
 
